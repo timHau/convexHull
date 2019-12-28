@@ -1,0 +1,16 @@
+{
+  "name": "convexhull",
+  "version": "1.0.0",
+  "description": "calculate the convex Hull",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convex",
+    "hull",
+    "geometry"
+  ],
+  "author": "tim hau",
+  "license": "ISC"
+}
